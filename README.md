@@ -3,6 +3,7 @@
 showcase on my portfolio: https://gracious-tribute-351783.framer.app/
 moves files in the current dir into folders
 current extension and folder list:
+
     {".jpeg","Pictures"},
     {".png","Pictures"},
     {".gif","Pictures"},
